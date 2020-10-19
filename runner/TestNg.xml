@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="1" name="AgencyBanking suite"
+annotations="JDK" parallel="tests">
+
+
+<test name="Login">
+<classes>
+<class name="com.operator.testcases.ValidateLogin" />
+</classes>
+</test>
+
+
+</suite>

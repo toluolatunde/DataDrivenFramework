@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="135841" started-at="2020-04-23T14:07:21Z" finished-at="2020-04-23T14:09:37Z">
+  <suite name="Default suite" duration-ms="133572" started-at="2020-10-19T11:39:55Z" finished-at="2020-10-19T11:42:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="135841" started-at="2020-04-23T14:07:21Z" finished-at="2020-04-23T14:09:37Z">
+    <test name="Default test" duration-ms="133572" started-at="2020-10-19T11:39:55Z" finished-at="2020-10-19T11:42:09Z">
       <class name="com.operator.testcases.ValidateLogin">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="36122" started-at="2020-04-23T15:07:23Z" finished-at="2020-04-23T15:07:59Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="setUp" is-config="true" duration-ms="26390" started-at="2020-10-19T12:39:58Z" finished-at="2020-10-19T12:40:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="3815" started-at="2020-04-23T15:07:59Z" data-provider="LoginData" finished-at="2020-04-23T15:08:03Z">
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="validatelogin" duration-ms="1727" started-at="2020-10-19T12:40:25Z" data-provider="Agentlogin" finished-at="2020-10-19T12:40:26Z">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatelogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="723" started-at="2020-04-23T15:08:03Z" finished-at="2020-04-23T15:08:03Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="tearDown" is-config="true" duration-ms="519" started-at="2020-10-19T12:40:26Z" finished-at="2020-10-19T12:40:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="28505" started-at="2020-04-23T15:08:03Z" finished-at="2020-04-23T15:08:32Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="setUp" is-config="true" duration-ms="19688" started-at="2020-10-19T12:40:27Z" finished-at="2020-10-19T12:40:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="1500" started-at="2020-04-23T15:08:32Z" data-provider="LoginData" finished-at="2020-04-23T15:08:33Z">
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="validatelogin" duration-ms="1724" started-at="2020-10-19T12:40:47Z" data-provider="Agentlogin" finished-at="2020-10-19T12:40:48Z">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatelogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="355" started-at="2020-04-23T15:08:33Z" finished-at="2020-04-23T15:08:34Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="tearDown" is-config="true" duration-ms="401" started-at="2020-10-19T12:40:48Z" finished-at="2020-10-19T12:40:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="28946" started-at="2020-04-23T15:08:34Z" finished-at="2020-04-23T15:09:03Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="setUp" is-config="true" duration-ms="26445" started-at="2020-10-19T12:40:49Z" finished-at="2020-10-19T12:41:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="2023" started-at="2020-04-23T15:09:03Z" data-provider="LoginData" finished-at="2020-04-23T15:09:05Z">
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="validatelogin" duration-ms="1694" started-at="2020-10-19T12:41:15Z" data-provider="Agentlogin" finished-at="2020-10-19T12:41:17Z">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatelogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="832" started-at="2020-04-23T15:09:05Z" finished-at="2020-04-23T15:09:06Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="tearDown" is-config="true" duration-ms="538" started-at="2020-10-19T12:41:17Z" finished-at="2020-10-19T12:41:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="29180" started-at="2020-04-23T15:09:06Z" finished-at="2020-04-23T15:09:35Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="setUp" is-config="true" duration-ms="23006" started-at="2020-10-19T12:41:17Z" finished-at="2020-10-19T12:41:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="1819" started-at="2020-04-23T15:09:35Z" data-provider="LoginData" finished-at="2020-04-23T15:09:37Z">
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="validatelogin" duration-ms="1667" started-at="2020-10-19T12:41:41Z" data-provider="Agentlogin" finished-at="2020-10-19T12:41:42Z">
           <params>
             <param index="0">
               <value>
@@ -99,7 +99,31 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validatelogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="676" started-at="2020-04-23T15:09:37Z" finished-at="2020-04-23T15:09:37Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="tearDown" is-config="true" duration-ms="476" started-at="2020-10-19T12:41:42Z" finished-at="2020-10-19T12:41:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="setUp" is-config="true" duration-ms="23446" started-at="2020-10-19T12:41:43Z" finished-at="2020-10-19T12:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="validatelogin" duration-ms="1626" started-at="2020-10-19T12:42:06Z" data-provider="Agentlogin" finished-at="2020-10-19T12:42:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tolu@initsng.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@3ec300f1]" name="tearDown" is-config="true" duration-ms="796" started-at="2020-10-19T12:42:08Z" finished-at="2020-10-19T12:42:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
