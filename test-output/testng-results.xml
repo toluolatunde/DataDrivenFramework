@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="135841" started-at="2020-04-23T14:07:21Z" finished-at="2020-04-23T14:09:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="135841" started-at="2020-04-23T14:07:21Z" finished-at="2020-04-23T14:09:37Z">
+      <class name="com.operator.testcases.ValidateLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="36122" started-at="2020-04-23T15:07:23Z" finished-at="2020-04-23T15:07:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="3815" started-at="2020-04-23T15:07:59Z" data-provider="LoginData" finished-at="2020-04-23T15:08:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[obayemi.oje@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Obayemi92@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="723" started-at="2020-04-23T15:08:03Z" finished-at="2020-04-23T15:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="28505" started-at="2020-04-23T15:08:03Z" finished-at="2020-04-23T15:08:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="1500" started-at="2020-04-23T15:08:32Z" data-provider="LoginData" finished-at="2020-04-23T15:08:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ghensky.oje@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Obayemi92@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="355" started-at="2020-04-23T15:08:33Z" finished-at="2020-04-23T15:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="28946" started-at="2020-04-23T15:08:34Z" finished-at="2020-04-23T15:09:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="2023" started-at="2020-04-23T15:09:03Z" data-provider="LoginData" finished-at="2020-04-23T15:09:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[obayemmy92@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Obayemi92@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="832" started-at="2020-04-23T15:09:05Z" finished-at="2020-04-23T15:09:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="setUp" is-config="true" duration-ms="29180" started-at="2020-04-23T15:09:06Z" finished-at="2020-04-23T15:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatelogin(java.lang.String, java.lang.String)[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="validatelogin" duration-ms="1819" started-at="2020-04-23T15:09:35Z" data-provider="LoginData" finished-at="2020-04-23T15:09:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[operator@inits.xyz]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[operator@inits.xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.operator.testcases.ValidateLogin@7e0babb1]" name="tearDown" is-config="true" duration-ms="676" started-at="2020-04-23T15:09:37Z" finished-at="2020-04-23T15:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.operator.testcases.ValidateLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
